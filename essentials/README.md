@@ -1,4 +1,4 @@
-##:crystal_ball: BASH SCRIPTING :crystal_ball:
+:crystal_ball: ## BASH SCRIPTING :crystal_ball:
 
 # Resources used in this repository
 
